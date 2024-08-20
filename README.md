@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on **building web applications**.
 - 💬 Ask me about **web development, UI/UX design, and programming languages**!
 - 📫 How to reach me: Shoot me an email at **[Sivasakthivajjiravelu@gmail.com](mailto:Sivasakthivajjiravelu@gmail.com)**, 
-- ⚡ Fun fact: **I love watching futuristic movies && reading tech blogs** to keep my imagination fueled and my coding vibes strong.
+
 
 
 
